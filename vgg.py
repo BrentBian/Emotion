@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 13 18:54:37 2018
 
-@author: brent
-"""
 import tensorflow as tf
 
 # definitions for vgg16
