@@ -10,7 +10,7 @@ import tensorflow as tf
 
 
 
-vgg_drop_rate = 0.01
+vgg_drop_rate = 0.82
 vgg_nfc1 = 2048
 vgg_nfc2 = 2048
 vgg_nfc3 = 1024

@@ -61,13 +61,12 @@ inc_pool17_stride = [1,1,1,1]
 inc_pool17_pad = 'VALID'
 
 
-inc_drop_rate = 0.6
-
+inc_drop_rate = 0.65
 inc_nfc = 1000
 
 inc_activation = tf.nn.relu
 
-inc_norm_r = 5
+inc_norm_r = 2
 inc_norm_a = 0.00002
 inc_norm_beta = 0.75
 inc_norm_bias = 1
